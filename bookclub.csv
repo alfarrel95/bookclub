@@ -1,0 +1,1115 @@
+{
+  "keyvaluerows": [],
+  "relationships": [
+    {
+      "endnode": 11,
+      "startnode": 16,
+      "inferred": true,
+      "id": 0,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 12,
+      "startnode": 17,
+      "inferred": true,
+      "id": 1,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 11,
+      "startnode": 18,
+      "inferred": true,
+      "id": 2,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 19,
+      "inferred": true,
+      "id": 3,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 20,
+      "inferred": true,
+      "id": 4,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 15,
+      "startnode": 20,
+      "inferred": true,
+      "id": 5,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 21,
+      "inferred": true,
+      "id": 6,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 14,
+      "startnode": 21,
+      "inferred": true,
+      "id": 7,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 12,
+      "startnode": 21,
+      "inferred": true,
+      "id": 8,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 10,
+      "startnode": 22,
+      "inferred": true,
+      "id": 9,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 10,
+      "startnode": 23,
+      "inferred": true,
+      "id": 10,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 11,
+      "startnode": 23,
+      "inferred": true,
+      "id": 11,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 24,
+      "inferred": true,
+      "id": 12,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 11,
+      "startnode": 24,
+      "inferred": true,
+      "id": 13,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 15,
+      "startnode": 25,
+      "inferred": true,
+      "id": 14,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 12,
+      "startnode": 25,
+      "inferred": true,
+      "id": 15,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 10,
+      "startnode": 25,
+      "inferred": true,
+      "id": 16,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 26,
+      "inferred": true,
+      "id": 17,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 14,
+      "startnode": 26,
+      "inferred": true,
+      "id": 18,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 11,
+      "startnode": 27,
+      "inferred": true,
+      "id": 19,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 14,
+      "startnode": 27,
+      "inferred": true,
+      "id": 20,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 28,
+      "inferred": true,
+      "id": 21,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 11,
+      "startnode": 28,
+      "inferred": true,
+      "id": 22,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 29,
+      "inferred": true,
+      "id": 23,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 15,
+      "startnode": 29,
+      "inferred": true,
+      "id": 24,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 11,
+      "startnode": 30,
+      "inferred": true,
+      "id": 25,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 14,
+      "startnode": 31,
+      "inferred": true,
+      "id": 26,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 14,
+      "startnode": 32,
+      "inferred": true,
+      "id": 27,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 13,
+      "startnode": 32,
+      "inferred": true,
+      "id": 28,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 12,
+      "startnode": 33,
+      "inferred": true,
+      "id": 29,
+      "type": "IS_GENRE",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 1,
+      "startnode": 0,
+      "inferred": true,
+      "id": 30,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 2,
+      "startnode": 0,
+      "inferred": true,
+      "id": 31,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 4,
+      "startnode": 0,
+      "inferred": true,
+      "id": 32,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 6,
+      "startnode": 0,
+      "inferred": true,
+      "id": 33,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 2,
+      "startnode": 1,
+      "inferred": true,
+      "id": 34,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 3,
+      "startnode": 1,
+      "inferred": true,
+      "id": 35,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 7,
+      "startnode": 1,
+      "inferred": true,
+      "id": 36,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 8,
+      "startnode": 1,
+      "inferred": true,
+      "id": 37,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 5,
+      "startnode": 2,
+      "inferred": true,
+      "id": 38,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 6,
+      "startnode": 2,
+      "inferred": true,
+      "id": 39,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 6,
+      "startnode": 3,
+      "inferred": true,
+      "id": 40,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 5,
+      "startnode": 4,
+      "inferred": true,
+      "id": 41,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 9,
+      "startnode": 4,
+      "inferred": true,
+      "id": 42,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 6,
+      "startnode": 5,
+      "inferred": true,
+      "id": 43,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 8,
+      "startnode": 5,
+      "inferred": true,
+      "id": 44,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 8,
+      "startnode": 6,
+      "inferred": true,
+      "id": 45,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 8,
+      "startnode": 7,
+      "inferred": true,
+      "id": 46,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 9,
+      "startnode": 7,
+      "inferred": true,
+      "id": 47,
+      "type": "FRIEND_OF",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 16,
+      "startnode": 0,
+      "inferred": true,
+      "id": 48,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 18,
+      "startnode": 0,
+      "inferred": true,
+      "id": 49,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 20,
+      "startnode": 0,
+      "inferred": true,
+      "id": 50,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 21,
+      "startnode": 0,
+      "inferred": true,
+      "id": 51,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 16,
+      "startnode": 1,
+      "inferred": true,
+      "id": 52,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 17,
+      "startnode": 1,
+      "inferred": true,
+      "id": 53,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 18,
+      "startnode": 1,
+      "inferred": true,
+      "id": 54,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 22,
+      "startnode": 1,
+      "inferred": true,
+      "id": 55,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 16,
+      "startnode": 2,
+      "inferred": true,
+      "id": 56,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 20,
+      "startnode": 2,
+      "inferred": true,
+      "id": 57,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 21,
+      "startnode": 2,
+      "inferred": true,
+      "id": 58,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 25,
+      "startnode": 2,
+      "inferred": true,
+      "id": 59,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 18,
+      "startnode": 3,
+      "inferred": true,
+      "id": 60,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 26,
+      "startnode": 3,
+      "inferred": true,
+      "id": 61,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 28,
+      "startnode": 3,
+      "inferred": true,
+      "id": 62,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 30,
+      "startnode": 3,
+      "inferred": true,
+      "id": 63,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 23,
+      "startnode": 4,
+      "inferred": true,
+      "id": 64,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 24,
+      "startnode": 4,
+      "inferred": true,
+      "id": 65,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 27,
+      "startnode": 4,
+      "inferred": true,
+      "id": 66,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 29,
+      "startnode": 4,
+      "inferred": true,
+      "id": 67,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 29,
+      "startnode": 5,
+      "inferred": true,
+      "id": 68,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 30,
+      "startnode": 5,
+      "inferred": true,
+      "id": 69,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 32,
+      "startnode": 5,
+      "inferred": true,
+      "id": 70,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 33,
+      "startnode": 5,
+      "inferred": true,
+      "id": 71,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 20,
+      "startnode": 6,
+      "inferred": true,
+      "id": 72,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 22,
+      "startnode": 6,
+      "inferred": true,
+      "id": 73,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 26,
+      "startnode": 6,
+      "inferred": true,
+      "id": 74,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 32,
+      "startnode": 6,
+      "inferred": true,
+      "id": 75,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 19,
+      "startnode": 7,
+      "inferred": true,
+      "id": 76,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 25,
+      "startnode": 7,
+      "inferred": true,
+      "id": 77,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 27,
+      "startnode": 7,
+      "inferred": true,
+      "id": 78,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 28,
+      "startnode": 7,
+      "inferred": true,
+      "id": 79,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 18,
+      "startnode": 8,
+      "inferred": true,
+      "id": 80,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 21,
+      "startnode": 8,
+      "inferred": true,
+      "id": 81,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 29,
+      "startnode": 8,
+      "inferred": true,
+      "id": 82,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 31,
+      "startnode": 8,
+      "inferred": true,
+      "id": 83,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 18,
+      "startnode": 9,
+      "inferred": true,
+      "id": 84,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 20,
+      "startnode": 9,
+      "inferred": true,
+      "id": 85,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 22,
+      "startnode": 9,
+      "inferred": true,
+      "id": 86,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    },
+    {
+      "endnode": 24,
+      "startnode": 9,
+      "inferred": true,
+      "id": 87,
+      "type": "LIKES",
+      "labels": [],
+      "props": {}
+    }
+  ],
+  "nodes": [
+    {
+      "id": 0,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Bart Baesens",
+        "age": "32"
+      }
+    },
+    {
+      "id": 1,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Seppe vanden Broucke",
+        "age": "30"
+      }
+    },
+    {
+      "id": 2,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Wilfried Lemahieu",
+        "age": "40"
+      }
+    },
+    {
+      "id": 3,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Marc Markus",
+        "age": "25"
+      }
+    },
+    {
+      "id": 4,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Jenny Jennifers",
+        "age": "26"
+      }
+    },
+    {
+      "id": 5,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Anne HatsAway",
+        "age": "22"
+      }
+    },
+    {
+      "id": 6,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Mike Smith",
+        "age": "18"
+      }
+    },
+    {
+      "id": 7,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Robert Bertoli",
+        "age": "49"
+      }
+    },
+    {
+      "id": 8,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Elvis Presley",
+        "age": "76"
+      }
+    },
+    {
+      "id": 9,
+      "labels": [
+        "Reader"
+      ],
+      "props": {
+        "name": "Sandra Mara",
+        "age": "12"
+      }
+    },
+    {
+      "id": 10,
+      "labels": [
+        "Genre"
+      ],
+      "props": {
+        "name": "fantasy"
+      }
+    },
+    {
+      "id": 11,
+      "labels": [
+        "Genre"
+      ],
+      "props": {
+        "name": "education"
+      }
+    },
+    {
+      "id": 12,
+      "labels": [
+        "Genre"
+      ],
+      "props": {
+        "name": "thriller"
+      }
+    },
+    {
+      "id": 13,
+      "labels": [
+        "Genre"
+      ],
+      "props": {
+        "name": "humor"
+      }
+    },
+    {
+      "id": 14,
+      "labels": [
+        "Genre"
+      ],
+      "props": {
+        "name": "romance"
+      }
+    },
+    {
+      "id": 15,
+      "labels": [
+        "Genre"
+      ],
+      "props": {
+        "name": "detective"
+      }
+    },
+    {
+      "id": 16,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "My First Book"
+      }
+    },
+    {
+      "id": 17,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "A Thriller Unleashed"
+      }
+    },
+    {
+      "id": 18,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Database Management"
+      }
+    },
+    {
+      "id": 19,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Laughs, Jokes, and More Jokes"
+      }
+    },
+    {
+      "id": 20,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Where are my Keys?"
+      }
+    },
+    {
+      "id": 21,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "A Kiss too Far"
+      }
+    },
+    {
+      "id": 22,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "A Wizardly Story"
+      }
+    },
+    {
+      "id": 23,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "A Wizardly Story 2: Order of the SQL"
+      }
+    },
+    {
+      "id": 24,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Laughing and Learning"
+      }
+    },
+    {
+      "id": 25,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "A Murder in Fantasyville"
+      }
+    },
+    {
+      "id": 26,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Without you I am Nothing"
+      }
+    },
+    {
+      "id": 27,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "How to be Romantic: a Guide"
+      }
+    },
+    {
+      "id": 28,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Why Boring is Good"
+      }
+    },
+    {
+      "id": 29,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "An Unsolved Problem for Detective Whiskers"
+      }
+    },
+    {
+      "id": 30,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Mathematics for the Rest of Us"
+      }
+    },
+    {
+      "id": 31,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "The Final Book I ever Wrote"
+      }
+    },
+    {
+      "id": 32,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "Who Says Love is Outdated?"
+      }
+    },
+    {
+      "id": 33,
+      "labels": [
+        "Book"
+      ],
+      "props": {
+        "title": "A Chainsaw Massacre"
+      }
+    }
+  ]
+}
